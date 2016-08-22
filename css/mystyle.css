@@ -1,0 +1,232 @@
+#map-canvas
+{
+    margin: 0px;
+    padding: 0px;
+}
+.divmap
+{
+    border: 3px solid black;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+}
+.icon
+{
+    height: 20px;
+    width: 20px;
+}
+//START STYLES FOR THE SIGNUP.HTML
+.spanclass
+{
+    color: green;
+}
+.signupinput
+{
+    //TO DO: MAYBE SOMEDAY MAKE INTERESTING CSS
+}
+#spansubmit
+{
+    display: none;
+    color: green;
+}
+//END STYLES FOR THE SIGNUP.HTML
+//START STYLES FOR COFFEEMACHINE
+#machine
+{
+    border: solid 2px black;
+    width :205px;
+    height: 235px;
+    background: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.machine
+{
+    border: solid 2px black;
+    width :205px;
+    height: 235px;
+    background: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+.items
+{
+    float: left;
+    width: 115px;
+    height: 225px;
+    background: black;
+    margin-top: 3px;
+    margin-left: 5px;
+    border-radius: 10px;
+
+}
+.item
+{
+    color: white;
+    font-weight: bolder;
+    font-weight: bold;
+    background: rgb(36, 82, 4);
+    width :100px;
+    height: 45px;
+    border-radius : 4px ;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+.itemName
+{
+    width :65px;
+    height: 20px;
+    margin-top: 8px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 10px;
+    text-align: right;
+}
+.itemSpec
+{
+    width :65px;
+    height: 20px;
+    font-size: 10px;
+    line-height: 12px;
+    text-align: right;
+}
+.itemPrice
+{
+    width :0px;
+    height: 45px;
+    float: right;
+    font-weight: bold;
+    font-size: 24px;
+    margin-right: 30px;
+    margin-top: -22px;
+}
+.button
+{
+    background: rgb(136, 76, 76);
+    width: 57px;
+    height: 36px;
+    margin-top: 5px;
+    border : solid 2px;
+    border-color: rgb(245, 242, 175);
+    border-radius : 35px ;
+    margin-left: 134px;
+    margin-top: 18px;
+}
+.fill
+{
+    background: grey;
+    width: 207px;
+    height: 18px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 3px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+.buttonSub
+{
+    background: rgb(136, 76, 76);
+    width: 57px;
+    height: 36px;
+    margin-top: 5px;
+    border : solid 2px;
+    border-color: rgb(245, 242, 175);
+    border-radius : 35px ;
+    margin-left: -2px;
+    margin-top: -2px;
+    color: white;
+}
+//END STYLES FOR COFFEEMACHINE
+//START STYLES FOR OOP4
+#oop4buttons
+{
+    width: 385px;
+    height: 100px;
+    border: solid 1px;
+    background: black;
+}
+.oop4buttons
+{
+    width: 1020px;
+    height: auto;
+}
+.oop4
+{
+    height: auto;
+    width: auto;
+    border: solid 1px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    display: inline-block;
+}
+.submitoop4
+{
+    width: 130px;
+    height: 26px;
+    //width: auto;
+    //height: auto;
+    border-radius: 4px;
+}
+.fc
+{
+    width: 600px;
+    height: auto;
+    border: solid 1px;
+    border-radius: 5px;
+    //padding-left: 5px;
+    padding: 5px;
+    margin: 5px 0 0 0;
+    display: inline-block;
+    vertical-align: top;
+}
+#disp
+{
+    width: 600px;
+    height:auto;
+    border: solid 1px;
+    border-radius: 5px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px 0 0 0;
+    padding: 5px;
+}
+.sel
+{
+    width: 174px;;
+    height: auto;
+    color: blue;
+}
+.block
+{
+    padding: 5px 5px 5px 5px;
+    margin-top:5px;
+    border: solid 1px;
+    border-radius: 5px;
+    height:auto;
+    width:auto;
+    display: inline-block;
+    vertical-align: top;
+}
+.oneitem
+{
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 0px;
+    border: solid 1px;
+    border-radius: 5px;
+    height:auto;
+    width:auto;
+    display: inline-block;
+    vertical-align: top;
+}
+.bluetx
+{
+    color:darkblue;
+}
+//END STYLES FOR OOP4
